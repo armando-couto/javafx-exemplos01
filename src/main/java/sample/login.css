@@ -1,0 +1,7 @@
+.pane {
+    -fx-background-color: linear-gradient(from 0% 0% to 100% 100%, DimGrey 0%, lightslategray 100%);
+}
+
+.botao {
+    -fx-color: black 25%;
+}
