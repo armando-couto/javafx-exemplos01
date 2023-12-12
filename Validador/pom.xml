@@ -47,7 +47,7 @@
         <dependency>
             <groupId>com.miglayout</groupId>
             <artifactId>miglayout-javafx</artifactId>
-            <version>11.2</version>
+            <version>11.3</version>
         </dependency>
 
         <!-- Apache Commons -->
